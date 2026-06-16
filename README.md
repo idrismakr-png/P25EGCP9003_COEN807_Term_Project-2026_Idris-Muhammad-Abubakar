@@ -7,7 +7,7 @@ This project applies machine learning techniques to detect fraudulent credit car
 - **Name:** Idris Muhammad Abubakar
 - **Student Reg. No.:** P25EGCP9003
 - **Course:** COEN807 – Machine Learning Fundamentals
-- **Date:** July, 2026
+- **Date:** June, 2026
 - **Institution:** Ahmadu Bello University, Zaria
 
 ## Dataset
